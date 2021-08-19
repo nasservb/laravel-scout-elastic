@@ -1,11 +1,11 @@
 {
-  "name": "tamayo/laravel-scout-elastic",
+  "name": "nasservb/laravel-scout-elastic",
   "description": "Elastic Driver for Laravel Scout",
   "license": "MIT",
   "authors": [
     {
-      "name": "Erick Tamayo",
-      "email": "ericktamayo@gmail.com"
+      "name": "Nasser Niazy",
+      "email": "nasservb@gmail.com"
     }
   ],
   "keywords": [
